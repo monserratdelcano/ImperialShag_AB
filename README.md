@@ -1,6 +1,6 @@
 This is the repository for the following manuscript: Begging for clarity: revealing the fine-scale dynamics of avian begging through tri-axial accelerometry
 
-In this study, we used triaxial accelerometry to identify main behaviours in the Imperial Shag (Leucocarbo atriceps). Accelerometers were deployed on chicks (8-21 days), and machine learning methods were used to classify four main behaviours: general activity, begging, eating and resting.
+In this study, we used triaxial accelerometry to identify main behaviours in the Imperial Shag (Leucocarbo atriceps). Accelerometers were deployed on chicks (8-21 days), and machine learning methods were used to classify four main behaviours: general activity,acquisition, resting and begging.
 
 Here we provide the scripts for the analysis:
 

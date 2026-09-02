@@ -117,7 +117,7 @@ rownames(xx) <- NULL
 data1=xx
 
 #save table
-save(data1, file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_smooth_withFrequencies_07052025.rData")
+save(data1, file="C:/Users/XXX/Punta Leon 2019_2021 y 2022/Analisis seÃ±ales acc pichones/Random Forest analisis/Output/acc_smooth_withFrequencies_07052025.rData")
 
 
 #Match behavioural annotations with the corresponding accelerometer records
@@ -204,4 +204,4 @@ rownames(data2)=NULL
 
 
 #Save table
-save(data2, file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")
+save(data2, file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis seÃ±ales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")

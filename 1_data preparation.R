@@ -204,4 +204,4 @@ rownames(data2)=NULL
 
 
 #Save table
-save(data2, file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")
+save(data2, file="C:/Users/XXX/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")

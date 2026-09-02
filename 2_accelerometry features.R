@@ -6,7 +6,7 @@ library(PerformanceAnalytics)
 library(stats)
 
 #Load data
-load(file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis se�ales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")
+load(file="C:/Users/XXX/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_observed_events_withFrequencies_07052025.rData")
 
 ls()
 head(data2)
@@ -111,10 +111,10 @@ names(data3)
 data5=data3
 
 #Save table
-save(data5,file="D:/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_senales pichones_features 1seg_withFrequencies_10062025.RData")
+save(data5,file="D:/Punta Leon 2019_2021 y 2022/Analisis seÃ±ales acc pichones/Random Forest analisis/Output/acc_senales pichones_features 1seg_withFrequencies_10062025.RData")
 
 
-save(data3, file="C:/Users/monse/Punta Leon 2019_2021 y 2022/Analisis señales acc pichones/Random Forest analisis/Output/acc_senales pichones_features 1seg_withFrequencies_07052025.RData")
+save(data3, file="C:/Users/XXX/Punta Leon 2019_2021 y 2022/Analisis seÃ±ales acc pichones/Random Forest analisis/Output/acc_senales pichones_features 1seg_withFrequencies_07052025.RData")
 
 #Vemos algunos valores:
 tapply(data3$Mean_Pitch,list(data3$ID,data3$Category),mean,na.rm=T)
